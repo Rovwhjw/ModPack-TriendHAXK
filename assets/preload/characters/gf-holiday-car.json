@@ -47,7 +47,7 @@
 		{
 			"offsets": [
 				0,
-				-20
+				-30
 			],
 			"loop": false,
 			"anim": "singRIGHT",
@@ -58,7 +58,7 @@
 		{
 			"offsets": [
 				-2,
-				-21
+				-14
 			],
 			"loop": false,
 			"anim": "sad",
@@ -188,10 +188,10 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/GF-car",
 	"position": [
 		0,
-		-120
+		0
 	],
 	"healthicon": "gf",
 	"flip_x": false,
@@ -201,7 +201,7 @@
 		77
 	],
 	"camera_position": [
-		0,
+		-200,
 		0
 	],
 	"sing_duration": 4,

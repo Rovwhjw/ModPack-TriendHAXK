@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				665,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle0"
+		},
+		{
+			"offsets": [
+				630,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Sing_Down0"
+		},
+		{
+			"offsets": [
+				631,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Down_Miss0"
+		},
+		{
+			"offsets": [
+				683,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Sing_Up0"
+		},
+		{
+			"offsets": [
+				679,
+				138
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Up_Miss0"
+		},
+		{
+			"offsets": [
+				695,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Sing_Right0"
+		},
+		{
+			"offsets": [
+				587,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Sing_Left0"
+		},
+		{
+			"offsets": [
+				676,
+				87
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Miss_Right0"
+		},
+		{
+			"offsets": [
+				590,
+				80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Left_Miss0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-triple-trouble-inverted",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		370,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

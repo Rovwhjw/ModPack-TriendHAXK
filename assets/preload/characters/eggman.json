@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-20,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Note"
+		},
+		{
+			"offsets": [
+				180,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down Note"
+		},
+		{
+			"offsets": [
+				272,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left Note"
+		},
+		{
+			"offsets": [
+				-2,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right Note"
+		},
+		{
+			"offsets": [
+				192,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "piss",
+			"indices": [],
+			"name": "Super Piss"
+		},
+		{
+			"offsets": [
+				-35,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wife",
+			"indices": [],
+			"name": "My Wife"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eggman",
+	"position": [
+		-240,
+		130
+	],
+	"healthicon": "eggman",
+	"flip_x": false,
+	"healthbar_colors": [
+		242,
+		66,
+		0
+	],
+	"camera_position": [
+		-130,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
