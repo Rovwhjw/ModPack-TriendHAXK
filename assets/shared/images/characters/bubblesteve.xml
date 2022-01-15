@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bubble shield steven.png"><SubTexture name="Bubble shield steven idle0000" x="0" y="0" width="1289" height="1267" frameX="0" frameY="0" frameWidth="1289" frameHeight="1267" />
+<SubTexture name="Bubble shield steven left0000" x="0" y="2534" width="1289" height="1267" frameX="0" frameY="0" frameWidth="1289" frameHeight="1267" />
+<SubTexture name="Bubble shield steven left0004" x="5156" y="2534" width="1289" height="1267" frameX="0" frameY="0" frameWidth="1289" frameHeight="1267" />
+<SubTexture name="Bubble shield steven up0000" x="0" y="3801" width="1289" height="1267" frameX="0" frameY="0" frameWidth="1289" frameHeight="1267" />
+<SubTexture name="Bubble shield steven up0004" x="5156" y="3801" width="1289" height="1267" frameX="0" frameY="0" frameWidth="1289" frameHeight="1267" />
+<SubTexture name="Bubble shield steven down0000" x="0" y="5068" width="1289" height="1267" frameX="0" frameY="0" frameWidth="1289" frameHeight="1267" />
+<SubTexture name="Bubble shield steven down0004" x="5156" y="5068" width="1289" height="1267" frameX="0" frameY="0" frameWidth="1289" frameHeight="1267" />
+<SubTexture name="Bubble shield steven right0000" x="0" y="6335" width="1289" height="1267" frameX="0" frameY="0" frameWidth="1289" frameHeight="1267" />
+<SubTexture name="Bubble shield steven right0004" x="5156" y="6335" width="1289" height="1267" frameX="0" frameY="0" frameWidth="1289" frameHeight="1267" />
+</TextureAtlas>

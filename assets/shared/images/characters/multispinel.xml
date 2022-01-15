@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="only spinel sings and steven.png"><SubTexture name="only spinel sings and steven idle0000" x="0" y="0" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="only spinel sings and steven idle0001" x="1213" y="0" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="only spinel sings and steven idle0004" x="4852" y="0" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="only spinel sings and steven idle0005" x="0" y="943" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="only spinel sings and steven idle0006" x="1213" y="943" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="only spinel sings and steven idle0009" x="4852" y="943" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="only spinel sings and steven left0000" x="0" y="1886" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="only spinel sings and steven left0004" x="4852" y="1886" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="only spinel sings and steven down0000" x="0" y="2829" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="only spinel sings and steven down0004" x="4852" y="2829" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="only spinel sings and steven up0000" x="0" y="3772" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="only spinel sings and steven up0004" x="4852" y="3772" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="only spinel sings and steven right0000" x="0" y="4715" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTxture name="only spinel sings and steven right0004" x="4852" y="4715" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+</TextureAtlas>
